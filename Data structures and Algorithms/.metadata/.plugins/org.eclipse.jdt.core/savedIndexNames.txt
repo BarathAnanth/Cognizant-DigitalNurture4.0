@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+D:\Cognizant Digital Nurture 4.0\Week 1\Data structures and Algorithms\.metadata\.plugins\org.eclipse.jdt.core
-3281364847.index
-1865797976.index
-1169506707.index
